@@ -1,8 +1,8 @@
 {
   "embedding": {
     "provider": "ollama",
-    "base_model": "mxbai-embed-large",
-    "base_dimension": 1024,
+    "base_model": "tinyllama",
+    "base_dimension": 2048,
     "batch_size": 32
   },
   "ingestion":{

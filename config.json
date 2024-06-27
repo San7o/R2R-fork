@@ -7,8 +7,8 @@
     "provider": "litellm"
   },
   "embedding": {
-    "provider": "openai",
-    "base_model": "text-embedding-3-small",
+    "provider": "ollama",
+    "base_model": "timyllama",
     "base_dimension": 512,
     "batch_size": 128,
     "text_splitter": {
